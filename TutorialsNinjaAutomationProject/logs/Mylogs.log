@@ -1,0 +1,419 @@
+[INFO ] 2024-10-02 13:30:37.932 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.937 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.938 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.938 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.945 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ] 2024-10-02 13:30:37.955 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[INFO ] 2024-10-02 13:30:37.956 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.958 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.959 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.959 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.959 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.959 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.960 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.960 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.960 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.960 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.962 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.962 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.963 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.963 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.965 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.966 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.967 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.967 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.968 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.968 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.970 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.971 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.971 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.971 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-10-02 13:30:37.977 [main] Utils - [TestNG] Running:
+  C:\Users\SAI PAVAN\AppData\Local\Temp\testng-eclipse-1702033190\testng-customsuite.xml
+
+[INFO ] 2024-10-02 13:30:48.811 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[INFO ] 2024-10-02 13:30:48.853 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:30:48.911 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:30:49.376 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:30:49.448 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:30:49.503 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:30:49.561 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:30:49.621 [main] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 13:30:49.674 [main] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 13:30:49.728 [main] RegistrationTest - *** Entered confim password ***
+[INFO ] 2024-10-02 13:30:49.776 [main] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 13:30:50.446 [main] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 13:30:52.726 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@8a98f38: 58 ms
+[INFO ] 2024-10-02 13:30:52.727 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@20011bf: 1 ms
+[INFO ] 2024-10-02 13:30:52.735 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@c6b2dd9: 8 ms
+[INFO ] 2024-10-02 13:30:52.743 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@54bca971: 7 ms
+[INFO ] 2024-10-02 13:30:52.749 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7bca6fac: 6 ms
+[INFO ] 2024-10-02 13:30:52.750 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5c60b0a0: 0 ms
+[INFO ] 2024-10-02 13:43:35.664 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:43:48.838 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:44:29.124 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:44:34.189 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:44:34.243 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:44:34.774 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:44:34.854 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:44:34.918 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:44:35.001 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:44:35.074 [main] RegistrationTest - *** Entered phone number ***
+[ERROR] 2024-10-02 13:44:35.081 [main] RegistrationTest - Test failed
+[INFO ] 2024-10-02 13:44:43.601 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:44:46.663 [main] RegistrationTest - *** Test cases started ***
+[ERROR] 2024-10-02 13:44:46.670 [main] RegistrationTest - Test failed
+[INFO ] 2024-10-02 13:44:54.834 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:46:04.178 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:46:27.301 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:46:27.355 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:46:32.621 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:46:32.699 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:46:32.759 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:46:32.842 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:46:32.909 [main] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 13:46:32.971 [main] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 13:46:33.031 [main] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 13:46:33.071 [main] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 13:46:35.056 [main] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 13:48:32.451 [main] Utils - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+[INFO ] 2024-10-02 13:48:32.637 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:48:35.386 [TestNG-test-Test-1] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:48:35.441 [TestNG-test-Test-1] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:48:35.937 [TestNG-test-Test-1] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:48:36.015 [TestNG-test-Test-1] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:48:36.076 [TestNG-test-Test-1] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:48:36.159 [TestNG-test-Test-1] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:48:36.228 [TestNG-test-Test-1] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 13:48:36.290 [TestNG-test-Test-1] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 13:48:36.348 [TestNG-test-Test-1] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 13:48:36.395 [TestNG-test-Test-1] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 13:48:36.931 [TestNG-test-Test-1] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 13:49:00.383 [main] Utils - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+[INFO ] 2024-10-02 13:49:00.569 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:49:03.446 [TestNG-test-Test-1] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:49:03.505 [TestNG-test-Test-1] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:49:04.067 [TestNG-test-Test-1] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:49:04.150 [TestNG-test-Test-1] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:49:04.210 [TestNG-test-Test-1] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:49:04.279 [TestNG-test-Test-1] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:49:04.332 [TestNG-test-Test-1] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 13:49:04.384 [TestNG-test-Test-1] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 13:49:04.434 [TestNG-test-Test-1] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 13:49:04.481 [TestNG-test-Test-1] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 13:49:05.028 [TestNG-test-Test-1] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 13:49:26.240 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:49:29.236 [TestNG-tests-1] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:49:29.290 [TestNG-tests-1] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:49:29.761 [TestNG-tests-1] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:49:29.842 [TestNG-tests-1] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:49:29.907 [TestNG-tests-1] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:49:29.989 [TestNG-tests-1] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:49:30.082 [TestNG-tests-1] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 13:49:30.173 [TestNG-tests-1] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 13:49:30.246 [TestNG-tests-1] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 13:49:30.294 [TestNG-tests-1] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 13:49:30.840 [TestNG-tests-1] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 13:49:40.624 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:49:42.488 [TestNG-tests-1] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:49:45.441 [TestNG-tests-2] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:49:45.503 [TestNG-tests-2] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:49:45.806 [TestNG-tests-1] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:49:46.377 [TestNG-tests-1] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:49:46.450 [TestNG-tests-1] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:49:46.541 [TestNG-tests-1] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:49:46.623 [TestNG-tests-1] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:49:46.691 [TestNG-tests-1] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 13:49:46.756 [TestNG-tests-1] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 13:49:46.824 [TestNG-tests-1] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 13:49:46.873 [TestNG-tests-1] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 13:49:47.410 [TestNG-tests-1] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 13:49:47.525 [TestNG-tests-2] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:49:47.616 [TestNG-tests-2] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:49:47.668 [TestNG-tests-2] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:49:47.748 [TestNG-tests-2] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:49:47.803 [TestNG-tests-2] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 13:49:47.867 [TestNG-tests-2] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 13:49:47.916 [TestNG-tests-2] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 13:49:47.967 [TestNG-tests-2] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 13:49:48.669 [TestNG-tests-2] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 13:53:53.471 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:54:40.278 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:55:09.632 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:55:21.327 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:55:50.739 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:57:36.929 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:58:34.182 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:59:36.965 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:59:40.303 [TestNG-tests-2] RegistrationTest - *** Test cases started ***
+[ERROR] 2024-10-02 13:59:40.311 [TestNG-tests-2] RegistrationTest - Test failed
+[INFO ] 2024-10-02 13:59:40.594 [TestNG-tests-1] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:59:40.669 [TestNG-tests-1] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:59:41.124 [TestNG-tests-1] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:59:41.203 [TestNG-tests-1] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:59:41.268 [TestNG-tests-1] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:59:41.353 [TestNG-tests-1] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:59:41.426 [TestNG-tests-1] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 13:59:41.486 [TestNG-tests-1] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 13:59:41.555 [TestNG-tests-1] RegistrationTest - *** Entered confirm password ***
+[ERROR] 2024-10-02 13:59:42.470 [TestNG-tests-1] RegistrationTest - Test failed
+[INFO ] 2024-10-02 13:59:51.673 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 13:59:54.444 [TestNG-tests-1] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 13:59:54.498 [TestNG-tests-1] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 13:59:54.964 [TestNG-tests-1] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 13:59:55.045 [TestNG-tests-1] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 13:59:55.105 [TestNG-tests-1] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 13:59:55.184 [TestNG-tests-1] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 13:59:55.250 [TestNG-tests-1] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 13:59:55.311 [TestNG-tests-1] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 13:59:55.372 [TestNG-tests-1] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 13:59:55.420 [TestNG-tests-1] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 13:59:55.932 [TestNG-tests-1] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 14:22:43.927 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 14:24:06.469 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:09:52.920 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:13:40.156 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:18:13.803 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:21:16.649 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:22:09.565 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:25:53.940 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:29:08.289 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:29:59.812 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:33:05.668 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:34:42.222 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:35:25.418 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:37:14.158 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:38:04.705 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:38:31.454 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:39:49.350 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:42:45.949 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:44:32.637 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:47:15.122 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 15:47:55.109 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:24:15.692 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:25:01.539 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:27:02.824 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:31:00.863 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:47:18.909 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:49:06.144 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:49:06.700 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:52:59.089 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:54:37.279 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:56:24.427 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 17:57:43.309 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 18:00:05.324 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 18:01:12.695 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 18:04:28.117 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[ERROR] 2024-10-02 18:04:43.096 [main] LoginTest - Test failed
+[INFO ] 2024-10-02 18:05:47.069 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[ERROR] 2024-10-02 18:05:58.278 [main] LoginTest - Test failed
+[INFO ] 2024-10-02 18:06:41.515 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[ERROR] 2024-10-02 18:06:55.814 [main] LoginTest - Test failed
+[INFO ] 2024-10-02 18:12:01.552 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 18:12:40.700 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[ERROR] 2024-10-02 18:12:53.900 [main] LoginTest - Test failed
+[INFO ] 2024-10-02 18:51:53.994 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 18:51:56.927 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 18:51:56.979 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 18:51:57.406 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 18:51:57.487 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 18:51:57.546 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 18:51:57.628 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 18:51:57.694 [main] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 18:51:57.752 [main] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 18:51:57.810 [main] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 18:51:57.855 [main] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 18:51:58.362 [main] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 18:52:43.904 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 18:52:48.541 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 18:52:48.593 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 18:52:48.975 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 18:52:49.056 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 18:52:49.119 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 18:52:49.199 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 18:52:49.267 [main] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 18:52:49.329 [main] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 18:52:49.389 [main] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 18:52:49.434 [main] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 18:52:49.967 [main] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 18:54:21.135 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 18:54:23.963 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 18:54:24.016 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 18:54:24.394 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 18:54:24.472 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 18:54:24.539 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 18:54:24.616 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 18:54:24.685 [main] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 18:54:24.745 [main] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 18:54:24.802 [main] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 18:54:24.847 [main] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 18:54:25.341 [main] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 18:56:10.901 [main] Utils - [TestNG] Running:
+  H:\SAI PAVAN\AutomationTestingProject\TutorialsNinjaAutomationProject\testng.xml
+
+[INFO ] 2024-10-02 18:56:13.619 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 18:56:13.671 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 18:56:14.091 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 18:56:14.176 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 18:56:14.240 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 18:56:14.319 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 18:56:14.385 [main] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 18:56:14.446 [main] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 18:56:14.504 [main] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 18:56:14.549 [main] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 18:56:15.056 [main] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 19:11:03.379 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 19:11:03.446 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 19:11:03.807 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 19:11:03.891 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 19:11:03.948 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 19:11:04.002 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 19:11:04.056 [main] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 19:11:04.108 [main] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 19:11:04.160 [main] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 19:11:04.209 [main] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 19:11:04.711 [main] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 19:14:23.101 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 19:14:23.165 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 19:14:23.805 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 19:14:23.882 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 19:14:23.936 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 19:14:23.993 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 19:14:24.033 [main] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 19:14:24.105 [main] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 19:14:24.150 [main] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 19:14:24.204 [main] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 19:14:24.702 [main] RegistrationTest - *** Click Continue button ***
+[INFO ] 2024-10-02 19:21:32.943 [main] RegistrationTest - *** Test cases started ***
+[INFO ] 2024-10-02 19:21:33.015 [main] RegistrationTest - *** Clicked My Account ***
+[INFO ] 2024-10-02 19:21:33.453 [main] RegistrationTest - *** Clicked Register button ***
+[INFO ] 2024-10-02 19:21:33.539 [main] RegistrationTest - *** Entered First Name ***
+[INFO ] 2024-10-02 19:21:33.606 [main] RegistrationTest - *** Entered Last Name ***
+[INFO ] 2024-10-02 19:21:33.688 [main] RegistrationTest - *** Entered Email ***
+[INFO ] 2024-10-02 19:21:33.773 [main] RegistrationTest - *** Entered phone number ***
+[INFO ] 2024-10-02 19:21:33.841 [main] RegistrationTest - *** Entered password ***
+[INFO ] 2024-10-02 19:21:33.904 [main] RegistrationTest - *** Entered confirm password ***
+[INFO ] 2024-10-02 19:21:33.951 [main] RegistrationTest - *** Clicked checkbox ***
+[INFO ] 2024-10-02 19:21:34.486 [main] RegistrationTest - *** Click Continue button ***
